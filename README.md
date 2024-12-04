@@ -1,7 +1,7 @@
 # FinHubX
  
 
-FinHubX
+FinHubX / InsiderScope
 Version 7
 Developed by Sig Labs - Peter De Ceuster
 
